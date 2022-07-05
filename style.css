@@ -65,8 +65,37 @@ p{
 }
 #section3{
     text-align: center;
-    padding-left: 250px;
-    padding-right: 250px;
-    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
-
+.size2{
+    text-align: left;
+    border: 2px;
+    border-radius: 5px;
+    margin: 30px 8px;
+    background-color:rgba(209, 226, 240, 0.298);
+    padding: 30px 10px;
+}
+#size3{
+    background-color: rgba(140, 240, 175, 0.46);
+    width: 50%;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-left: 220px;
+    padding: 50px;
+}
+#size3 input{
+    width: 200px;
+    height:27px ;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+footer h1{
+    color: rgba(224, 47, 28, 0.907);
+    font-size: 20px;
+}
+footer p{
+    color: aliceblue;
+}
