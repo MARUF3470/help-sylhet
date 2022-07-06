@@ -40,8 +40,6 @@ p{
 }
 .flex{
     display: flex;
-    padding-left: 25%;
-    padding-right: 25%;
 }
 .size{
     margin-right: 5px;
@@ -62,9 +60,8 @@ p{
 
 }
 #section3{
+    width:100%;
     text-align: center;
-    padding-left: 100px;
-    padding-right: 100px;
 }
 .size2{
     text-align: left;
@@ -72,7 +69,8 @@ p{
     border-radius: 5px;
     margin: 30px 8px;
     background-color:rgba(209, 226, 240, 0.298);
-    padding: 30px 10px;
+    padding: 40px 10px;
+    width: 80%;
 }
 #size3{
     text-align: center;
